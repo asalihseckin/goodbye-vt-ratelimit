@@ -1,4 +1,4 @@
-# 🛡️ vt-domain-scanner
+# 🛡️ goodbye-vt-ratelimit
 
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue?logo=python&logoColor=white)
 ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey)
