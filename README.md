@@ -1,5 +1,3 @@
-# VT-domain-scanner
-Bulk domain reputation scanner using the VirusTotal API — multi-key rotation, live proxy validation, auto-retry, and resumable checkpoints for scanning thousands of domains safely.
 # 🛡️ vt-domain-scanner
 
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue?logo=python&logoColor=white)
