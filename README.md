@@ -7,8 +7,6 @@
 
 A multi-threaded **VirusTotal** domain reputation scanner built for bulk-auditing large domain lists (1000+) without manual IP/key management.
 
-> Originally built to scan ~2000 Turkish news domains for malware/phishing indicators — works with any domain list. 🌐
-
 ---
 
 ## ✨ Features
@@ -38,7 +36,7 @@ A multi-threaded **VirusTotal** domain reputation scanner built for bulk-auditin
 | 🟠 **Orange/Yellow** | `WARNING` / `PROXY DEAD` / `RATE LIMIT` | Needs attention but scan continues |
 
 ```
-  [CLEAN] example.com                          🟢
+  [CLEAN] example.com                           🟢
   [SUSPICIOUS] example.com (2 detections)       🟡
   [MALICIOUS] example.com (4 detections)        🔴
   [MALICIOUS] example.com (15 detections)       🔴🔥 (bright/bold)
