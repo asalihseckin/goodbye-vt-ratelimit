@@ -112,11 +112,6 @@ Then sit back and watch the color-coded live feed:
 
 ---
 
-## 📝 Notes
 
-- 🧅 **Tor (SOCKS5) support was tested and removed** — VirusTotal runs on Google Cloud infrastructure, which blocks nearly all known Tor exit nodes at the network edge (HTTP 403 before the request even reaches the API). Tested across multiple circuits: 100% failure rate, zero practical benefit.
-- 🔌 **Free/public proxies have a low live rate** (~7-10%) — expected and handled automatically by the validation + auto-replenishment system.
 
----
-
-<p align="center">Made for bulk domain threat intelligence 🔍</p>
+<p align="center"Made in Absence 🥀</p>
